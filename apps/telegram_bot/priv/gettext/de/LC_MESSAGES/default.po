@@ -1,0 +1,2 @@
+msgid "help"
+msgstr "Hallo, ich bin Manualsbrain_bot! Benötigen Sie eine Anleitung für Ihr Hausgerät oder ein elektronisches Gadget? Ich bin hier um Ihnen zu helfen, es so schnell wie möglich zu finden!\n\nFür eine genauere Suche bitte night die Art des Haushaltsgeräts angeben, aber nur die Marke und Modellnummer. Zum Beispiel: HP C4156A.\n\nUm die Sprache zu ändern, verwenden Sie den Befehl /language"

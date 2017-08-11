@@ -1,0 +1,9 @@
+/_build
+/cover
+/deps
+erl_crash.dump
+*.ez
+.iex.exs
+ttb_last_config
+.deliver/releases/
+config/*.pub

@@ -1,0 +1,13 @@
+APP="manul"
+
+BUILD_HOST="localhost"
+BUILD_USER="builder"
+BUILD_AT="/tmp/edeliver/manul/builds"
+
+PRODUCTION_HOSTS="" # deploy / production hosts separated by space
+PRODUCTION_USER=""
+
+DELIVER_TO=""
+RELEASE_DIR="$BUILD_AT/_build/$TARGET_MIX_ENV/rel/$APP"
+
+GIT_CLEAN_PATHS=${GIT_CLEAN_PATHS:="rel"}
